@@ -1,4 +1,7 @@
 ﻿@charset "utf-8";
+body{
+	padding: 70px;
+}
 #first{
 /*	padding-top: 20px;*/
 	width: 1200px;
@@ -22,7 +25,7 @@
 .study{
 	width: 1900px;
 	position: absolute;
-	top: 1020px;
+	top: 1030px;
 }
 #table{
 	width: 600px;

@@ -1,4 +1,7 @@
 @charset "utf-8";
+body{
+	padding: 70px;
+}
 #first{
 	width: 1200px;
 	position: relative;
